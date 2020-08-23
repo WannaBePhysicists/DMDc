@@ -1,4 +1,4 @@
-# MPC
+# DMDc on Flow over a Cylinder for control with MPC
 MPC to supress shedding in a cylinder by using a DMDc linearized model of fluid flow.
 
 Contents of the Repository. 
