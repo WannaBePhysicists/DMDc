@@ -11,4 +11,5 @@ DMDc_MPC_flow_over_cyl_2d.ipny - Ipython notebook to see the entire workflow. Ex
 MPC_DMDcV1.m - utilizes the A, B, Uhat, x0 matrices from notebook to implement MPC on the linearized system.
 
 Bibliography links:
+
 *DMDc by Proctor et al. (2014)* https://arxiv.org/abs/1409.6358
